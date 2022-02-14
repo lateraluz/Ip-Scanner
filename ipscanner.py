@@ -23,7 +23,7 @@ def get_hosts_list():
 
     file = open("systems2.csv")
     csvreader = csv.reader(file)
-    header = next(csvreader)
+    #header = next(csvreader)
     #print(header)
     replace = []
     no_replace = []
