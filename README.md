@@ -1,4 +1,4 @@
-# Ip-Scanner
+# Python-Ip-Scanner
 Examine a .csv file, parse information and  scan all ips in order to get  alives ips and hostname 
 
 In order to use connection and either send or post data follow:
