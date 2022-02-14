@@ -3,9 +3,9 @@ Examine a .csv file, parse information and  scan all ips in order to get  alives
 
 In order to use connection and either send or post data follow:
 1. Open .csv File
-2. Dump header
-3. Get 3 column
-4. Iterate thru network   
+2. Get 3 column
+3. Iterate thru network  
+4. Test ping response then get hostname   
 
 
 ## License
